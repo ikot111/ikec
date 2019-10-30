@@ -1,1 +1,2 @@
-Ovo je file 1
+echo("Ovo je prvi file koji smo dodali na naš repozitorij");
+
